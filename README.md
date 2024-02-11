@@ -22,3 +22,5 @@ Compile and Run: Compile the JDBCmySQL.java file using the Java compiler (javac 
 Error Handling:
 
 Handles potential ClassNotFoundException if the MySQL JDBC driver class (com.mysql.cj.jdbc.Driver) is not found.
+
+Refer to the Word document attached to see the command prompt output
